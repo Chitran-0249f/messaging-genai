@@ -17,5 +17,5 @@ export default function RootLayout({
 import './globals.css'
 
 export const metadata = {
-      generator: 'Messaging app'
+      generator: 'v0.dev'
     };
