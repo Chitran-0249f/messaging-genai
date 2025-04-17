@@ -499,7 +499,7 @@ export default function ChatInterface() {
             <span className="sr-only">Menu</span>
           </Button>
 
-          <h1 className="text-base font-medium text-gray-800">v0 Chat</h1>
+          <h1 className="text-base font-medium text-gray-800">Messaging App</h1>
 
           <Button variant="ghost" size="icon" className="rounded-full h-8 w-8">
             <PenSquare className="h-5 w-5 text-gray-700" />
